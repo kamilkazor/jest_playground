@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jest_playground/static/css/main.7a9cf5aa.css",
-    "main.js": "/jest_playground/static/js/main.04afd70c.js",
+    "main.js": "/jest_playground/static/js/main.c739c3f1.js",
     "static/media/bootstrap-icons.woff?": "/jest_playground/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/jest_playground/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "index.html": "/jest_playground/index.html",
     "main.7a9cf5aa.css.map": "/jest_playground/static/css/main.7a9cf5aa.css.map",
-    "main.04afd70c.js.map": "/jest_playground/static/js/main.04afd70c.js.map"
+    "main.c739c3f1.js.map": "/jest_playground/static/js/main.c739c3f1.js.map"
   },
   "entrypoints": [
     "static/css/main.7a9cf5aa.css",
-    "static/js/main.04afd70c.js"
+    "static/js/main.c739c3f1.js"
   ]
 }
