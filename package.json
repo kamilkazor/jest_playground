@@ -2,6 +2,13 @@
   "name": "jest-playground",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kamilkazor.github.io/jest_playground",
+  "repository": "https://github.com/kamilkazor/jest_playground.git",
+  "author": {
+    "name": "Kamil Kazor",
+    "email": "79405091+kamilkazor@users.noreply.github.com",
+    "url": "https://github.com/kamilkazor"
+  },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.5",
@@ -46,6 +53,8 @@
     }
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -72,6 +81,7 @@
   },
   "devDependencies": {
     "@types/uuid": "^9.0.0",
+    "gh-pages": "^4.0.0",
     "msw": "^0.49.2"
   }
 }
